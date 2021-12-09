@@ -1,5 +1,4 @@
 # taxfix-assignment
- taxfix assignment
 
 Code files:
  1. schema_validator.py - contains code for json schema validation.
